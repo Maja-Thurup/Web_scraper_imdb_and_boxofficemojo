@@ -16,14 +16,18 @@ Here is scraped [Dataset](https://www.kaggle.com/igorkirko/imdb-summary-trivia) 
 ![](imdb_screen.png)
 Another scraper I made for my [project](https://github.com/Maja-Thurup/Classify-movie-genres-from-text-data-using-neural-networks)
 This dataset contains:
+
 **Short summary** 
 - Length       50-200 symbols
 - Quantity     90k items
+
 ![](summary.png)
 
 **Synopsis** 
+
 - Length        500-10 000 symbols
 - Quantity      11k items
+
 ![](synopsis.png)
 
 **List of all scraped items: 'title', 'year', 'mpaa', 'run_time', 'rating', 'ratings_count', 'budget', 'world_gross', 'genre', 'director', 
