@@ -15,6 +15,10 @@ Here is scraped [Dataset](https://www.kaggle.com/igorkirko/imdb-summary-trivia) 
 # Imdb web [scraper](/Scraper_imdb.ipynb)
 ![](imdb_screen.png)
 Another scraper I made for my [project](https://github.com/Maja-Thurup/Classify-movie-genres-from-text-data-using-neural-networks)
+
+**List of all scraped items: 'title', 'year', 'mpaa', 'run_time', 'rating', 'ratings_count', 'budget', 'world_gross', 'genre', 'director', 
+                       'writer', 'actor', 'keywords', 'summary', 'synopsis'**
+                       
 This dataset contains:
 
 **Short summary** 
@@ -30,8 +34,7 @@ This dataset contains:
 
 ![](synopsis.png)
 
-**List of all scraped items: 'title', 'year', 'mpaa', 'run_time', 'rating', 'ratings_count', 'budget', 'world_gross', 'genre', 'director', 
-                       'writer', 'actor', 'keywords', 'summary', 'synopsis'**
+
                        
                        
         
