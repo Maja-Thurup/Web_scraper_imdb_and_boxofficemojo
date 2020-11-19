@@ -5,10 +5,10 @@ I went over 250000 pages on boxofficemojo website and scraped only US movies wit
 List of movie codes to scrape I took from [IMDB datasets](https://datasets.imdbws.com/)
 In July 2008, the boxofficemojo was purchased by Amazon.com through its subsidiary, IMDb. So now IMDB and Mojo share the same movie codes.
 
-List of scraped items: 'movie_id', 'title', 'year', 'trivia', 'mpaa', 'release_date', 'run_time', 'distributor', 'director', 
+**List of scraped items: 'movie_id', 'title', 'year', 'trivia', 'mpaa', 'release_date', 'run_time', 'distributor', 'director', 
                        'writer', 'producer', 'composer', 'cinematographer', 'main_actor_1', 'main_actor_2', 'main_actor_3', 
                        'main_actor_4', 'budget', 'domestic', 'international', 'worldwide', 'genre_1', 
-                       'genre_2', 'genre_3', 'genre_4'
+                       'genre_2', 'genre_3', 'genre_4'**
 
 Here is scraped [Dataset](https://www.kaggle.com/igorkirko/imdb-summary-trivia) on Kaggle
 
@@ -26,8 +26,8 @@ This dataset contains:
 - Quantity      11k items
 ![](synopsis.png)
 
-List of all scraped items: 'title', 'year', 'mpaa', 'run_time', 'rating', 'ratings_count', 'budget', 'world_gross', 'genre', 'director', 
-                       'writer', 'actor', 'keywords', 'summary', 'synopsis'
+**List of all scraped items: 'title', 'year', 'mpaa', 'run_time', 'rating', 'ratings_count', 'budget', 'world_gross', 'genre', 'director', 
+                       'writer', 'actor', 'keywords', 'summary', 'synopsis'**
                        
                        
         
